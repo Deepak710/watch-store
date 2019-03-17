@@ -30,4 +30,4 @@
 1. To check for warranty, go to the admin tab by providing username ("Deepak Balaji") and password ("DMB") in the respective watch. This will show the purchase history of that particular watch
 1. Admin can also change the rate and quantity (stock) of the watches
 
-Contact Me: [Telegram](https://web.telegram.org/#/im?p=@AzorAhoy)
+Contact Me: [Telegram](https://t.me/AzorAhoy)
